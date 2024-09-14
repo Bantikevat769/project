@@ -35,7 +35,7 @@ button {
 }
 
 button:hover {
-  background-color: #218838;
+  background-color:red;
   transition: background-color 0.3s ease;
   color: #fff;
   transition: color 0.3s ease;
@@ -48,7 +48,7 @@ button:hover {
   transition: filter 0.3s ease;
   filter: grayscale(100%);
   transition: background-color 0.3s ease;
-  
+
 }
 
 ul {
